@@ -1,0 +1,7 @@
+dataset=CIFAR10
+model_name=vit_tiny_patch16_224
+strategy=linear_probe
+epochs=100
+batch_size=256
+lr=0.001
+feature_dim=192

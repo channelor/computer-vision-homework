@@ -1,0 +1,4 @@
+Image file: apple.jpg
+Source: Wikimedia Commons Special:FilePath/Apple-001.jpg
+URL: https://commons.wikimedia.org/wiki/Special:FilePath/Apple-001.jpg
+Purpose: SAM point/box prompt segmentation demo for Home3.

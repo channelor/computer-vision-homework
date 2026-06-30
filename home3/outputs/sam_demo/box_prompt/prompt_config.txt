@@ -1,0 +1,7 @@
+image=inputs/apple.jpg
+checkpoint=checkpoints/sam_vit_b_01ec64.pth
+model_type=vit_b
+point=None
+negative_point=None
+box=[520, 260, 2500, 2210]
+multimask=True
